@@ -2,6 +2,7 @@ The aim of the project is to check the loan eligibility of the person i.e. if he
 
 ## Technologies:
 Programming Language: Python
+
 Libraries: Pandas, Scikit-learn, Matplotlib, Numpy
 
 ## Attributes:
